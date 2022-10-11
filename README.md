@@ -1,8 +1,8 @@
 # hello_world
 
 - Apple
--Banana
--Peach
+- Banana
+- Peach
 
 ## Conclusions
 
