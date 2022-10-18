@@ -13,3 +13,5 @@
 ## brtest
 
 shimano yuzuki
+
+サーバ上で編集したよ
